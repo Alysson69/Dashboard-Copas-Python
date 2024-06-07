@@ -5,7 +5,7 @@ Inicialmente, houve algumas dúvidas sobre como proceder, mas o aluno Alysson su
   Ao final do nosso projeto, percebemos algumas dificuldades e especificidades técnicas. Enfrentamos desafios na escolha do tipo de código a ser utilizado, na origem do banco de dados, e na implementação de certas funcionalidades. Utilizamos ferramentas como Excel para organizar dados, Google Colab para programação colaborativa, e GitHub para controle de versão e gerenciamento do código. Essas escolhas foram fundamentais para o desenvolvimento e a finalização bem-sucedida do projeto.
 <br><br>
 Para iniciar o projeto precisamos de uma versão do python instalada, disponível em:<br>
-https://www.python.org/downloads/release/python-3123/
+[https://www.python.org/downloads/release/python-3123/](https://www.python.org/downloads/windows/)
 <br><br>
 Bibliotecas utilizadas:<br>
 Streamlit, pandas, plotly.express e google.generativeai.
