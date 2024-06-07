@@ -7,12 +7,12 @@ Inicialmente, houve algumas dúvidas sobre como proceder, mas o aluno Alysson su
 Para iniciar o projeto precisamos de uma versão do python instalada, disponível em:
 https://www.python.org/downloads/release/python-3123/
 <br><br>
-Bibliotecas utilizadas:
+Bibliotecas utilizadas:<br>
 Streamlit, pandas, plotly.express e google.generativeai.
 <br><br>
-Comandos necessários para execução do projeto:
- pip install google-generativeai
- pip install plotly
+Comandos necessários para execução do projeto:<br>
+ pip install google-generativeai<br>
+ pip install plotly<br>
  pip install streamlit pandas openpyx
  <br><br>
 para rodar o projeto: streamlit run dash.py
