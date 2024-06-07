@@ -13,7 +13,9 @@ Streamlit, pandas, plotly.express e google.generativeai.
 Comandos necessários para execução do projeto:<br>
  pip install google-generativeai<br>
  pip install plotly<br>
- pip install streamlit pandas openpyx
+ pip install streamlit<br
+ pip install pandas<br>
+ pip install openpyx
  <br><br>
 para rodar o projeto: streamlit run dash.py
 
